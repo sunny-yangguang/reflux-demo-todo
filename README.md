@@ -5,4 +5,6 @@ a simple demo for learning reflux
 cnpm install
 
 #second  webpack compile the code   webpack编译代码
+webpack
+
 #open the  index.html  browse   打开index.html 浏览
